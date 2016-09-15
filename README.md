@@ -28,6 +28,9 @@ sudo apt-get install indicator-netspeed-unity
 
 gsettings set org.pantheon.desktop.gala.appearance button-layout close,minimize,maximize
 
+sudo apt install npm
+npm install -g ember-cli
+
 ```
 
 http://ubuntuhandbook.org/index.php/2016/04/install-enpass-ubuntu-1604/

@@ -31,6 +31,9 @@ gsettings set org.pantheon.desktop.gala.appearance button-layout close,minimize,
 sudo apt install npm
 npm install -g ember-cli
 
+
+mix archive.install https://github.com/phoenixframework/archives/raw/master/phoenix_new.ez
+
 ```
 
 http://ubuntuhandbook.org/index.php/2016/04/install-enpass-ubuntu-1604/
